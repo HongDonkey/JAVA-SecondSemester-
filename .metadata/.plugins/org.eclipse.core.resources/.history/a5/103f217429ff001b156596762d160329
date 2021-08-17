@@ -1,0 +1,16 @@
+package com.kopo.project200;
+
+public class Student {
+	int idx;
+	String name;
+	int score;
+	
+	public Student() {
+		// TODO Auto-generated constructor stub
+	}
+	
+	Student(String name, int score) {
+		this.name = name;
+		this.score = score;
+	}
+}

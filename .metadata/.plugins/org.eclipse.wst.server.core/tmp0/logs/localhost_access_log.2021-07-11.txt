@@ -1,0 +1,6 @@
+127.0.0.1 - - [11/Jul/2021:16:45:10 +0900] "GET / HTTP/1.1" 200 4733
+0:0:0:0:0:0:0:1 - - [11/Jul/2021:16:45:11 +0900] "GET / HTTP/1.1" 200 4733
+0:0:0:0:0:0:0:1 - - [11/Jul/2021:16:45:11 +0900] "GET /js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+0:0:0:0:0:0:0:1 - - [11/Jul/2021:16:45:11 +0900] "GET /css/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 117150
+0:0:0:0:0:0:0:1 - - [11/Jul/2021:16:45:11 +0900] "GET /css/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 35452
+0:0:0:0:0:0:0:1 - - [11/Jul/2021:16:45:11 +0900] "GET /css/bootstrap/fonts/glyphicons-halflings-regular.eot? HTTP/1.1" 200 20127
